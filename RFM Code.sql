@@ -14,5 +14,3 @@ GO
 -- Suppose the date of getting data for analysis is Septemper 1st, 2022
 EXECUTE getRFMMetrics @GetDate = '2022-09-01'
 GO
-
-
